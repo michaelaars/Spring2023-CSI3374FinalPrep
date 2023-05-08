@@ -1,22 +1,22 @@
 Quiz title: Peopleware Ch19-39 Questions
 Quiz description: Review questions over Chapters 19-39 of Peopleware textbook
 
-1.	All of the following are reasons to AVOID promoting employees early, EXCEPT that:
+1.	What is a consequence of promoting employees early?
 a)	Very light-weight people are at the bottom
 b)	The structure is wastefully top-heavy
 c)	15% of staff does work, while 85% of staff manages
-*d)	The best people will remain at the company
+*d)	All of the above
 
-2.	Which of the following is NOT a common reason people leave a company?
+2.	Why do people leave a company?
 a)	A just-passing-through mentality
 b)	A feeling of disposability
 c)	A lack of loyalty
-*d)	A jelled team dynamic
+*d)	All of the above
 
-3.	Which action should a manager take to REDUCE turnover or departures?
+3.	How can a manager reduce turnover and departures?
 a)	Relocating the company
 *b)	Widespread retraining
-c)	Promoting employees early
+c)	Extra overtime
 d)	Encouraging competition
 
 4.	True or False: Human capital is the amount a company has invested in its people.
@@ -26,7 +26,7 @@ b)	False
 5.	How low can a new hire's net-production be on Day One?
 *a)	Less than 0%
 b)	0%
-c)	50%
+c)	5%
 d)	100%
 
 6.	True or False: Managers should improve near-term performance by sacrificing the long term.
@@ -91,17 +91,17 @@ d)	Putting your reputation in your subordinates' hands
 [*]	Preserve successful teams
 [*]	Provide strategic (not tactical) direction
 
-17.	What is TRUE of a Non-Deterministic system?
+17.	What describes a Non-Deterministic system?
 a)	It is fully automated
 b)	It replaces an all-human system
 *c)	It is self-healing
 d)	It is based on Methodologies
 
 18.	A Methodology increases which of the following?
-*a)	Paperwork
-b)	Non-standard methods
-c)	Responsibility
-d)	Motivation
+a)	Motivation
+b)	Responsibility
+c)	Non-standard methods
+*d)	Paperwork
 
 19.	The Hawthorne Effect states that:
 a)	People perform worse when doing the same thing
@@ -109,7 +109,7 @@ b)	People perform better when doing the same thing
 c)	People perform worse when doing something new
 *d)	People perform better when doing something new
 
-20.	Which of the following meeting types is FALSE?
+20.	Which of the following meeting types is incorrect?
 a)	Stand-Up meetings are conducted in an empty space on your feet
 *b)	Working meetings avoid decision-making by involving lots of people
 c)	Ceremonies are generally unproductive and waste people's time
@@ -119,19 +119,19 @@ d)	Open-Space meetings let employees network and socialize
 *a)	True
 b)	False
 
-22.	Which of the following waste people's time?
+22.	Which of the following wastes people's time?
 a)	Status meetings
-b)	Early overstaffing
+b)	Early over-staffing
 c)	Switching between tasks (time fragmentation)
 *d)	All of the above
 
 23.	What is the correct order of the Satir Change Model?
-*a)	Old Status Quo; Chaos; Practice & Integration; New Status Quo
-b)	Practice & Integration; New Status Quo; Chaos; Old Status Quo
-c)	Old Status Quo; Practice & Integration; New Status Quo; Chaos
-d)	Chaos; New Status Quo; Practice & Integration; Old Status Quo
+*a)	Old Status Quo -> Chaos -> Practice & Integration -> New Status Quo
+b)	Practice & Integration -> New Status Quo -> Chaos -> Old Status Quo
+c)	Old Status Quo -> Practice & Integration -> New Status Quo -> Chaos
+d)	Chaos -> New Status Quo -> Practice & Integration -> Old Status Quo
 
-24.	True or False: Managers should always avoid disorder.
+24.	True or False: Disorder is always bad for managers.
 a)	True
 *b)	False
 
@@ -152,8 +152,8 @@ b)	It targets creative insight
 *c)	It strives for quality of ideas, not quantity
 d)	It introduces chaos into the thought process
 
-28.	Brainstorming can be restarted with all of the following EXCEPT:
+28.	Brainstorming can be restarted by which of the following?
 a)	Analogy thinking
 b)	Inversion
 c)	Immersion
-*d)	Introspection
+*d)	All of the above
